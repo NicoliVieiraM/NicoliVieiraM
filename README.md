@@ -21,6 +21,6 @@
 
 ### 📊 Meus Status no GitHub
 
-[![Análise do GitHub](https://github-readme-stats.vercel.app/api?username=NicoliVieiraM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/NicoliVieiraM)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoliVieiraM&layout=compact&langs_count=7&theme=dracula)](https://github.com/NicoliVieiraM)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicoliVieiraM&theme=dracula" width="100%" />
+</div>
